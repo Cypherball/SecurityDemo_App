@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SecurityDemo</string>
+    <string name="digital_signature_generator">Digital Signature Generator</string>
+    <string name="private_key">Private Key</string>
+    <string name="public_key">Public Key</string>
+    <string name="generate_keys">Generate Keys</string>
+    <string name="message">Message</string>
+    <string name="sign">Sign</string>
+    <string name="share_public_key">Share Public Key</string>
+    <string name="share_message_and_signature">Share Message and Signature</string>
+    <string name="clear">Clear</string>
+    <string name="a_creation_of_nitish_devadiga">A creation of Nitish Devadiga</string>
+    <string name="sender_s_public_key">Sender\'s Public Key</string>
+    <string name="signature">Signature</string>
+    <string name="verify">Verify</string>
+    <string name="verification_status">Verification Status:</string>
+    <string name="digital_signature_verification">Digital Signature Verification</string>
+    <string name="generate_digital_signature">Generate Digital Signature</string>
+    <string name="verify_digital_signature">Verify Digital Signature</string>
+</resources>
